@@ -19,7 +19,8 @@
 
 **OmniVision AI** is an end-to-end retail execution platform that gives supermarkets and FMCG brands complete visibility into their physical shelves. It pairs sub-second **YOLOv8** computer vision with rigorous **Holt-Winters statistical forecasting** to dynamically manage inventory, detect anomalies, and recover lost revenue before shelves go completely empty.
 
-Originally built as a winning solution for the **DAIICT Hackathon 2026 (Problem Statement 2)**, this project demonstrates a highly robust, scalable approach to real-world edge AI and intelligent dashboards.
+<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/f6f1caff-3786-4901-85d6-0ddb4935e66a" />
+
 
 ---
 
