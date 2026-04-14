@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👁️ OmniVision AI (ShelfIQ)
+# 👁️ OmniVision AI
 **Next-Generation Retail Shelf Intelligence & Inventory Optimization**
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
