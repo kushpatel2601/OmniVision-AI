@@ -33,11 +33,11 @@
 
 ### 📊 Automated Planogram Compliance
 Cross-references detected bounding boxes with expected JSON aisle layouts to trigger immediate violations for:
-- ✅ **Out-of-Stock / Missing Products**
-- ✅ **Insufficient Facings** (Detected < Expected)
-- ✅ **Misplaced Products** (Wrong Shelf/Aisle)
-- ✅ **Unauthorized Products** (Competitor intrusion)
-- ✅ **Price Irregularities** (Detected OCR Price != Expected System Price)
+-  **Out-of-Stock / Missing Products**
+-  **Insufficient Facings** (Detected < Expected)
+-  **Misplaced Products** (Wrong Shelf/Aisle)
+-  **Unauthorized Products** (Competitor intrusion)
+-  **Price Irregularities** (Detected OCR Price != Expected System Price)
 
 ### 📈 Demand Forecasting & Replenishment
 * **Holt-Winters Exponential Smoothing:** Natively parses weekly seasonality, local event schedules, promotional calendars, and temperature fluctuations.
